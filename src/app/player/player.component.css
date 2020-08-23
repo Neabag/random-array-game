@@ -1,0 +1,23 @@
+.dice {
+  background-color: green;
+  height: 25px;
+  width: 25px;
+  margin-left: 20px;
+  cursor: pointer;
+  margin-top: 0;
+  padding: 30px;
+}
+.playerCard {
+  margin-top: 20px;
+  margin-right: 50px;
+  width: 240px;
+}
+.playerName {
+  padding: 20px 0px;
+  font-size: 40px;
+}
+.score,
+.totalScore {
+  font-size: 30px;
+  padding: 20px 0px;
+}

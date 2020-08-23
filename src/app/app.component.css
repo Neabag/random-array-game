@@ -1,0 +1,17 @@
+.appData {
+  margin: 0 25%;
+}
+.content {
+  display: flex;
+  padding-top: 10px;
+  justify-content: flex-start;
+}
+.winner {
+  font-size: 40px;
+  color: red;
+  margin-top: 20px;
+}
+.reset button {
+  margin-top: 40px;
+  font-size: 25px;
+}
