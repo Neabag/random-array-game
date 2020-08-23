@@ -1,4 +1,5 @@
-# AmplusAssignment
+# AmplusAssignment 
+Checkout the demo [here[(https://playnwin.netlify.app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
